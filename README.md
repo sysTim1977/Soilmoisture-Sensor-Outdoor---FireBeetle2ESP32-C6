@@ -1,4 +1,4 @@
-# Soilmoisture-Outdoor-Sensor
+# Soilmoisture sensor (Outdoor)
 An outdoor soilmoisture sensor with capabilities of _Matter_
 
 # Problem:
@@ -8,8 +8,8 @@ An outdoor soilmoisture sensor with capabilities of _Matter_
 
 # Solution
 - Industrial IP65 case _(100mm x 100mm)_
-- DFROBOT  __DFR-1075__ _(ESP32-C6, Thread)_
 - PV panel / Battery
+- DFROBOT  __DFR-1075__ _(ESP32-C6, Thread)_
 - Cable connected analog sensors
 
 # Discussion
