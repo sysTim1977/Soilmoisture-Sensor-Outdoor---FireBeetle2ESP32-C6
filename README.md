@@ -1,4 +1,4 @@
-# FireBeetle 2 ESP32-C6 Soilmoisture-Sensor-Outdoor
+# Soilmoisture-Outdoor-Sensor
 An outdoor soilmoisture sensor with capabilities of _Matter_
 
 # Problem:
